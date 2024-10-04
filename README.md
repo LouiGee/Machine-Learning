@@ -42,6 +42,7 @@ The assessment pattern for this module is 20% coursework and 80% exam.
 
 <img width="921" alt="Screenshot 2024-10-04 at 09 38 09" src="https://github.com/user-attachments/assets/8ef9f583-696d-4879-968b-7c9b82a3665c">
 
+<img width="1201" alt="Screenshot 2024-10-04 at 09 41 36" src="https://github.com/user-attachments/assets/f868690e-d792-44a2-8cee-fdbcb8f32b90">
 
 
 
