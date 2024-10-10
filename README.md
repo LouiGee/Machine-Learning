@@ -1,7 +1,7 @@
 # Machine-Learning
 
 ## Exam Structure 
-There will be two assignments, to be submitted in weeks 16 and 24.
+There will be two assignments, to be submitted in weeks 16 (18th of November) and 24(13th of January).
 
 The assessment pattern for this module is 20% coursework and 80% exam.
 
@@ -10,7 +10,7 @@ The assessment pattern for this module is 20% coursework and 80% exam.
 **Current**: 4\
 **Hours per day needed**: ?
 
-# Lecture 3 ML Pipeline 01/10/24 - 04/10/24
+# Lecture 3 & 4 - ML Pipeline 01/10/24 - 04/10/24
 
 <img width="959" alt="Screenshot 2024-10-04 at 09 04 15" src="https://github.com/user-attachments/assets/0fe5d79f-f525-4923-9ed9-82b7fb3d35c9">
 
@@ -44,8 +44,7 @@ The assessment pattern for this module is 20% coursework and 80% exam.
 
 <img width="1201" alt="Screenshot 2024-10-04 at 09 41 36" src="https://github.com/user-attachments/assets/f868690e-d792-44a2-8cee-fdbcb8f32b90">
 
-
-
+# Lecture 5 - ML Pipeline(3) & Classification 09/10/24
 
 
 
