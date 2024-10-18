@@ -20,7 +20,7 @@ The assessment pattern for this module is 20% coursework and 80% exam.
 
 ## Target hours revision 
 **Target**: 150 \
-**Current**: 7.5\
+**Current**: 8.5\
 **Hours per day needed**: ?
 
 # Lecture 3 & 4 - ML Pipeline 01/10/24 - 04/10/24
