@@ -1,5 +1,10 @@
 # Machine-Learning
 
+## Target hours revision 
+**Target**: 150 \
+**Current**: 12\
+**Hours per day needed**: ?
+
 ## Exam Structure 
 There will be two assignments, to be submitted in weeks 16 (18th of November) and 24(13th of January).
 
@@ -18,10 +23,7 @@ The assessment pattern for this module is 20% coursework and 80% exam.
 #### Networks Problem solving exercises (30%) Deadline - 13/12/2024
 #### Machine Learning Assessment 2 - Deadline 13/01/2024
 
-## Target hours revision 
-**Target**: 150 \
-**Current**: 12\
-**Hours per day needed**: ?
+
 
 # Lecture 3 & 4 - ML Pipeline 01/10/24 - 04/10/24
 
