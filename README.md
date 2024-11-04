@@ -2,7 +2,7 @@
 
 ## Target hours revision 
 **Target**: 150 \
-**Current**: 20\
+**Current**: 25\
 **Hours per day needed**: ?
 
 ## Exam Structure 
